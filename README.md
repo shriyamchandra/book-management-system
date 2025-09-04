@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+ 
 # 📚 Book Management System
 
 A full-stack web application for managing books, reviews, and orders.  
